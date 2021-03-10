@@ -9,9 +9,9 @@ namespace pyramid
             int number = 0;
             
             Console.WriteLine("Enter a number: ");
-	        numero = Int32.Parse(Console.ReadLine());
+	        number = Int32.Parse(Console.ReadLine());
 
-            AddNumbers(numero);
+            AddNumbers(number);
         }
         public static int AddNumbers(int number)
         {
