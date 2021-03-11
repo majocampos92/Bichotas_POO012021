@@ -4,7 +4,6 @@ namespace Example1
 {    
     internal class Program 
     {
-
         public static void Main(string[] args)
         { 
             int a = 0, b = 0;
