@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.exe
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.deps.json
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.dll
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\ref\Example1.dll
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\bin\Debug\net5.0\Example1.pdb
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.dll
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\ref\Example1.dll
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.pdb
+C:\Users\maria\OneDrive\Escritorio\POO 012021\CLAN BICHOTAS\bichotas_POO012021\example1\obj\Debug\net5.0\Example1.genruntimeconfig.cache

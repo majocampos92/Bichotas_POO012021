@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Example1
 {    
@@ -6,8 +6,7 @@ namespace Example1
     {
 
         public static void Main(string[] args)
-        {
-            
+        { 
             int a = 0, b = 0;
             
             Console.WriteLine("Enter a value for a:");
